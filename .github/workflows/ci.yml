@@ -30,4 +30,7 @@ jobs:
       - uses: streetsidesoftware/cspell-action@ce1816e4ce36532956ac6e983737392774b6e169 # v9.2.0
         with:
           config: .github/cspell.json
+          files: |
+            README.md
+            *.py
           incremental_files_only: false
