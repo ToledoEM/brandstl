@@ -1,0 +1,18 @@
+{
+  "version": "0.2",
+  "language": "en-GB",
+  "globRoot": "..",
+  "files": [
+    "README.md",
+    "*.py"
+  ],
+  "words": [
+    "argwhere",
+    "enrique",
+    "mathutils",
+    "SFNS",
+    "textbbox",
+    "Trimesh",
+    "xkcd"
+  ]
+}

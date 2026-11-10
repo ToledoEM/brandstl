@@ -66,3 +66,6 @@ temp/
 /.quarto/
 **/*.quarto_ipynb
 /README_files/*
+# Docs build (generated in CI)
+docs/
+site/

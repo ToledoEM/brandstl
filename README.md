@@ -57,7 +57,7 @@ Parameters:
 
 - Text is created using Blender's text object system
 - Converted to mesh geometry for boolean operations
-- Automatically centered and scaled to fit surface
+- Automatically centred and scaled to fit surface
 - Character spacing optimized for readability
 
 ### Boolean Operations
@@ -72,7 +72,7 @@ Parameters:
 - Text positioned on bottom surface of model
 - X-axis mirroring ensures correct chirality
 - Penetrates into model for clean carving
-- Automatic bounds detection and centering
+- Automatic bounds detection and centring
 
 ## Files
 
@@ -85,4 +85,4 @@ Parameters:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ToledoEM/brandstl/blob/main/LICENSE) file for details.
